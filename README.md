@@ -1,5 +1,5 @@
 <head>
-
+ <style type="text/css" id="operaUserStyle"></style> 
 </head>
 <body>
 <h2>Projects:</h2>

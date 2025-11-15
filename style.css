@@ -1,5 +1,8 @@
 #Projects{
   background-color: blue;
+  min-height: 500px;
+  display: flex;
+  align-items: center;
 }
 
 #Project

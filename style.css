@@ -9,6 +9,13 @@
 {
   background-color: gray;
   max-width: 500px;
+  img
+  {
+    border-radius: 10px;
+    max-width: 400px;
+    max-height: 400px;
+    padding: 10px;
+  }
 }
 
 body{

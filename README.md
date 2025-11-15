@@ -1,7 +1,7 @@
 <head>
 </head>
 <body>
-<h2>Projects:</h2>
+<h2>These are Projects:</h2>
 
 <div id=Projects>
   <div id=Project>

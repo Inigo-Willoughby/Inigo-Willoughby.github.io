@@ -1,5 +1,8 @@
 #Projects{
-  background-color: light-gray;
+  background-color: white;
+  border-radius: 20px;
+  border-width: 5px;
+  border-color: gray;
   min-height: 500px;
   display: flex;
   align-items: center;

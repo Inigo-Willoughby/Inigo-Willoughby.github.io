@@ -1,9 +1,12 @@
-#Projects{
+#Projects
+{
   background-color: white;
   border-radius: 20px;
   border-width: 5px;
   border-color: gray;
-  min-height: 500px;
+  min-height: 700px;
+  width: 100%;
+  padding: 25px;
   display: flex;
   align-items: center;
 }

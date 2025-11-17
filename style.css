@@ -18,6 +18,9 @@
 {
   background-color: gray;
   max-width: 500px;
+  h3{
+    text-align: center;
+  }
   img
   {
     border-radius: 10px;

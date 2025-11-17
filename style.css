@@ -9,6 +9,7 @@
   
   min-height: 700px;
   width: 100%;
+  paddding: 50px;
   display: flex;
   align-items: center;
 }

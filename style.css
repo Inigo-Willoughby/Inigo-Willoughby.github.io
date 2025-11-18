@@ -26,6 +26,7 @@
   
   h3{
     text-align: center;
+    background-color: red;
   }
 
   h6{
@@ -35,6 +36,7 @@
     border-width: 5px;
     border-color: Gray;
     overflow: hidden;
+    background-color: green;
   }
   
   img

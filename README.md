@@ -17,5 +17,9 @@
     <h3>Independent VR Inventory Project</h3>
       <h4>Sole Developer</h4>
   </div>
+  <div id=Project>
+    <h3>Independent Stealth Game Indie Project</h3>
+    <h4>Sole Developer</h4>
+    <h6>03/19/26-present</h6>
 </div>
 </body>

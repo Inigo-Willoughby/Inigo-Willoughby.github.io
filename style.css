@@ -29,7 +29,7 @@
     font-size: 2em;
     text-align: center;
     background-color: #FF000080;
-    border: 0.1em;
+    border: 0.1em solid red;
     border-radius: 0.4em;
   }
   .ProjectRole{

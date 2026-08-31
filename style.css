@@ -28,7 +28,7 @@
   .ProjectName{
     font-size: 2em;
     text-align: center;
-    background-color: blue;
+    background-color: #FF000080;
     border: 0.1em solid red;
     border-radius: 0.4em;
   }
@@ -42,7 +42,7 @@
     margin: 0px;
     padding: 2px 0.25em;
     font-size: 1.8em;
-    background-color: white;
+    background-color: LightGray;
     border-right: 0.1em solid #777777;
     border-bottom: 0.1em solid #777777;
     border-radius: 0 0 0.4em 0;

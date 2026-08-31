@@ -28,7 +28,8 @@
   .ProjectName{
     font-size: 2em;
     text-align: center;
-    background-color: red;
+    background-color: #FF000080;
+    border-radius: 0.4em;
   }
   .ProjectRole{
   padding: 5px;

@@ -30,6 +30,9 @@
     text-align: center;
     background-color: red;
   }
+  .ProjectRole{
+  padding: 5px;
+  }
   .date{
     position: absolute;
     top: 0;
